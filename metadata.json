@@ -1,0 +1,10 @@
+{
+  "name": "SIGNIFY AI – Breaking Communication Barriers",
+  "description": "AI-powered real-time ASL hand gesture to text and speech communication assistant with Gemini-powered wildlife and animal photograph recognition.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
